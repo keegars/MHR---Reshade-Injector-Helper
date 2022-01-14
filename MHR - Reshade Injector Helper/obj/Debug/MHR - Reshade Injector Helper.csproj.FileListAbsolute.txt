@@ -1,0 +1,9 @@
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\ReShade.ini
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\inject.exe
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\ReShade64.dll
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\MHR - Reshade Injector Helper.exe.config
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\MHR - Reshade Injector Helper.exe
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\bin\Debug\MHR - Reshade Injector Helper.pdb
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\obj\Debug\MHR - Reshade Injector Helper.csproj.CoreCompileInputs.cache
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\obj\Debug\MHR - Reshade Injector Helper.exe
+C:\Users\keega\source\repos\MHR---Reshade-Injector-Helper\MHW - Reshade Injector Helper\obj\Debug\MHR - Reshade Injector Helper.pdb
